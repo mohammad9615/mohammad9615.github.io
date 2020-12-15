@@ -6,7 +6,7 @@ body{
 }
 </style>
 ### محمدرضا حامدی
-<a href="https://uupload.ir/view/1d9z_me.jpg" target="_blank"><img src="https://uupload.ir/files/1d9z_me_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+<a href="<a href="https://uupload.ir/view/lnt6_photo_2020-10-01_10-20-02.jpg" target="_blank"><img src="https://uupload.ir/files/lnt6_photo_2020-10-01_10-20-02_thumb.jpg" border="0" alt="آپلود عکس" /></a>" border="0" alt="آپلود عکس" /></a>
 
 ### اطلاعات شخصی
 
